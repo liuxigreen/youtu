@@ -1,0 +1,8 @@
+{
+  "provider": "youtube-studio",
+  "mode": "manual",
+  "profile": "default",
+  "loginRequired": true,
+  "draftFirst": true,
+  "publishRequiresHumanReview": true
+}

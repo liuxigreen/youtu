@@ -54,3 +54,11 @@ manual
 
 ## First recommended test
 Run one local YouTube dry run end-to-end on a single short Chinese video, stop at draft/manual review, and measure token-heavy steps before adding more automation.
+
+
+## Additional skeletons
+- `skills/browser-publish/`
+- `playbooks/browser-publish.md`
+- `playbooks/local-toolchain.md`
+- `state/browser-settings.json`
+- `state/toolchain-status.json`
