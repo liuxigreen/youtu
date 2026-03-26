@@ -28,6 +28,14 @@ Turn a Chinese-source drama/video into a YouTube-ready English-market package.
 6. Upload as draft unless the user explicitly asks to publish.
 7. Record output into state files / publish logs.
 
+## Local-first / low-token guidance
+- Prefer one-video dry runs before batch work.
+- Do not re-analyze the whole video if subtitles or a prior summary already exist.
+- Separate content understanding from upload execution.
+- Generate metadata once, then reuse it during upload.
+- For the first local test, read `references/local-dry-run.md`.
+- For metadata quality checks, read `references/metadata-checklist.md`.
+
 ## Hard rules
 - Do not assume copyright is safe. Flag risk explicitly.
 - Do not default to direct publish.

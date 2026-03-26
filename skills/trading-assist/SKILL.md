@@ -22,6 +22,11 @@ Improve trading decisions without overriding risk controls or stealing focus fro
    - confidence
 4. If any of the above is missing, return blocker / incomplete advice.
 
+## Guidance
+- Trading is not the default business focus in this repo.
+- Prefer structured risk checks over open-ended market rambling.
+- For a concise checklist, read `references/risk-checklist.md`.
+
 ## Hard rules
 - no invalidation, no trade
 - no size limit, no execution suggestion

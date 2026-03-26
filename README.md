@@ -44,3 +44,13 @@ manual
 - YouTube flow defaults to draft/manual-first
 - Trading flow defaults to secondary + conservative
 - Do not commit secrets, browser profiles, cookies, or private runtime state
+
+
+## Added templates
+- `state/current-mode.json`
+- `state/youtube-settings.json`
+- `state/trading-settings.json`
+- `state/content-metrics.json`
+
+## First recommended test
+Run one local YouTube dry run end-to-end on a single short Chinese video, stop at draft/manual review, and measure token-heavy steps before adding more automation.
