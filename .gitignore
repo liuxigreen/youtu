@@ -11,3 +11,6 @@ secrets/
 private/
 state/runtime-*
 memory/private-*
+.DS_Store
+__pycache__/
+*.pyc

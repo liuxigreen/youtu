@@ -1,0 +1,9 @@
+{
+  "market": "US",
+  "language": "en",
+  "publishMode": "manual",
+  "defaultVisibility": "private",
+  "draftFirst": true,
+  "abTitles": true,
+  "requireHumanReview": true
+}

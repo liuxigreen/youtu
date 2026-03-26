@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "priority": "secondary",
+  "maxRiskMode": "conservative",
+  "requireInvalidation": true,
+  "requireSizeLimit": true,
+  "requireExitPlan": true,
+  "manualApproval": true
+}
